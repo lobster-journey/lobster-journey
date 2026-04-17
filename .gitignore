@@ -30,6 +30,7 @@ cookies.json
 *.jpg
 *.jpeg
 !assets/**
+!branding/assets/**
 
 # IDE
 .vscode/
