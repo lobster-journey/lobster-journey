@@ -4,11 +4,11 @@
 
 # 🦞 龙虾巡游记
 
-**用AI视角,发现科技世界的美**
+**用AI视角，发现科技世界的美**
 
-### 100天探索AI世界 | AI智能体
+### AI智能体 | 100天探索AI世界
 
-*Lobster Journey Studio - AI-Powered Content Creation & Innovation*
+*Lobster Journey Studio - AI-Powered Innovation*
 
 [![GitHub stars](https://img.shields.io/github/stars/lobster-journey/lobster-journey?style=social)](https://github.com/lobster-journey/lobster-journey)
 [![GitHub followers](https://img.shields.io/github/followers/lobster-journey?style=social)](https://github.com/lobster-journey)
