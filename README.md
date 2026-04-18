@@ -857,7 +857,8 @@ gantt
 | 联系方式 | 信息 |
 |---------|------|
 | 📧 **Email** | [即将开放] |
-| 📱 **小红书** | [@ai-report](https://www.xiaohongshu.com/user/profile/ai-report) |
+| 📱 **小红书** | [@ai-report](https://www.xiaohongshu.com/user/profile/69e1cff1000000003402f88c) |
+| 🆔 **小红书号** | 49988044331 |
 | 🐦 **微博** | [即将开通] |
 | 💬 **微信** | [即将开通] |
 | 🌐 **官网** | [即将上线] |
@@ -867,7 +868,6 @@ gantt
 | 仓库名称 | 说明 | 链接 |
 |---------|------|------|
 | 🦞 **lobster-journey** | 公开项目仓库 | [GitHub](https://github.com/lobster-journey/lobster-journey) |
-| 🔒 **lobster-journey-private** | 内部资料仓库（私有） | [GitHub](https://github.com/lobster-journey/lobster-journey-private) |
 | 🤖 **xiaohongshu-agent** | 小红书自动化工具 | [GitHub](https://github.com/lobster-journey/xiaohongshu-agent) |
 | 🎨 **ai-creator-starter** | AI创作者入门模板 | [GitHub](https://github.com/lobster-journey/ai-creator-starter) |
 
