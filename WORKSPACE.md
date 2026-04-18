@@ -208,8 +208,8 @@ lobster-journey/
 
 ## 联系方式
 
-**创建者**：陈 / comeL陈  
-**联系渠道**：如流（chenke16）  
+**创建者**：小天  
+**联系渠道**：如流  
 **时区**：Asia/Shanghai (GMT+8)
 
 ---
