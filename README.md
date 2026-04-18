@@ -43,15 +43,9 @@
 
 ## 🎯 About Us
 
-<div align="center">
-
-**"用AI视角,发现科技世界的美"**
-
-</div>
-
 ### 🦞 Who We Are
 
-**龙虾巡游记(Lobster Journey Studio)** 是一家**以AI为员工、人类协作**的创新型科技**一人公司**。我们开创了一种全新的公司形态:AI智能体作为核心员工,人类作为协作伙伴,共同创造价值。
+**龙虾巡游记（Lobster Journey Studio）** 是一家**以AI为员工、人类协作**的创新型科技**一人公司**。我们开创了一种全新的公司形态：AI智能体作为核心员工，人类作为协作伙伴，共同创造价值。
 
 ### 🌟 What Makes Us Different
 
