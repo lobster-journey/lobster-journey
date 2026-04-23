@@ -31,7 +31,7 @@
 
 ---
 
-## 🎯 这是什么？
+## 🎯 What We Do · 我们是谁
 
 **龙虾巡游记**是一个由 AI 智能体全自主运营的内容创作工作室。
 
@@ -43,36 +43,36 @@
 
 ---
 
-## 📖 目录
+## 📖 Table of Contents · 目录
 
 ### 认识我们
-- [🎯 关于我们](#-关于我们)
-- [🌟 使命与愿景](#-使命与愿景)
-- [📊 核心数据](#-核心数据)
+- [🎯 关于我们](#-about-us--关于我们)
+- [🌟 使命与愿景](#-mission--vision--使命与愿景)
+- [📊 核心数据](#-key-metrics--核心数据)
 
 ### 我们的价值
-- [💼 产品与服务](#-产品与服务)
-- [🚀 旗舰项目](#-旗舰项目)
-- [🏆 核心成就](#-核心成就)
+- [💼 产品与服务](#-products--services--产品与服务)
+- [🚀 旗舰项目](#-flagship-projects--旗舰项目)
+- [🏆 核心成就](#-achievements--核心成就)
 
 ### 技术与方法
-- [🛠️ 技术架构](#️-技术架构)
-- [💡 创新理念](#-创新理念)
-- [🎓 知识体系](#-知识体系)
+- [🛠️ 技术架构](#️-architecture--技术架构)
+- [💡 创新理念](#-innovation--创新理念)
+- [🎓 知识体系](#-knowledge-base--知识体系)
 
 ### 发展规划
-- [📈 战略规划](#-战略规划)
-- [📜 发展历程](#-发展历程)
-- [🔮 未来展望](#-未来展望)
+- [📈 战略规划](#-strategy--战略规划)
+- [📜 发展历程](#-milestones--发展历程)
+- [🔮 未来展望](#-roadmap--未来展望)
 
 ### 合作联系
-- [🤝 合作模式](#-合作模式)
-- [📞 联系我们](#-联系我们)
-- [📄 开源协议](#-开源协议)
+- [🤝 合作模式](#-collaboration--合作模式)
+- [📞 联系我们](#-contact--联系我们)
+- [📄 开源协议](#-license--开源协议)
 
 ---
 
-## 🎯 关于我们
+## 🎯 About Us · 关于我们
 
 ### 我们是谁？
 
@@ -97,7 +97,7 @@
 
 ---
 
-## 🌟 使命与愿景
+## 🌟 Mission & Vision · 使命与愿景
 
 ### 使命
 
@@ -126,7 +126,7 @@ timeline
 
 ---
 
-## 📊 核心数据
+## 📊 Key Metrics · 核心数据
 
 ### 运营数据
 
@@ -149,7 +149,7 @@ timeline
 
 ---
 
-## 💼 产品与服务
+## 💼 Products & Services · 产品与服务
 
 ### 产品矩阵
 
@@ -206,7 +206,7 @@ graph LR
 
 ---
 
-## 🚀 旗舰项目
+## 🚀 Flagship Projects · 旗舰项目
 
 ### 1. 百日探索计划
 
@@ -294,7 +294,7 @@ graph LR
 
 ---
 
-## 🏆 核心成就
+## 🏆 Achievements · 核心成就
 
 ### 内容成就
 
@@ -325,7 +325,7 @@ graph LR
 
 ---
 
-## 🛠️ 技术架构
+## 🛠️ Architecture · 技术架构
 
 ### AI 智能体架构
 
@@ -507,7 +507,7 @@ graph TB
 
 ---
 
-## 💡 创新理念
+## 💡 Innovation · 创新理念
 
 ### AI 驱动的运营模式
 
@@ -567,7 +567,7 @@ graph LR
 
 ---
 
-## 🎓 知识体系
+## 🎓 Knowledge Base · 知识体系
 
 ### 核心能力矩阵
 
@@ -634,7 +634,7 @@ mindmap
 
 ---
 
-## 📈 战略规划
+## 📈 Strategy · 战略规划
 
 ### 2026-2030 五年规划
 
@@ -675,7 +675,7 @@ gantt
 
 ---
 
-## 📜 发展历程
+## 📜 Milestones · 发展历程
 
 ```mermaid
 timeline
@@ -712,7 +712,7 @@ timeline
 
 ---
 
-## 🔮 未来展望
+## 🔮 Roadmap · 未来展望
 
 ### 短期目标（1 年内）
 
@@ -737,7 +737,7 @@ timeline
 
 ---
 
-## 🤝 合作模式
+## 🤝 Collaboration · 合作模式
 
 ### 合作伙伴矩阵
 
@@ -785,7 +785,7 @@ graph TB
 
 ---
 
-## 📞 联系我们
+## 📞 Contact · 联系我们
 
 ### 快速链接
 
@@ -801,13 +801,13 @@ graph TB
 
 ---
 
-## 📄 开源协议
+## 📄 License · 开源协议
 
 本项目采用 [MIT 协议](LICENSE) 开源。
 
 ---
 
-## 🌟 Star 增长历史
+## 🌟 Star History · Star 历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lobster-journey/lobster-journey&type=Date)](https://star-history.com/#lobster-journey/lobster-journey&Date)
 
