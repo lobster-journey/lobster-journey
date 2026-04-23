@@ -193,7 +193,6 @@ graph LR
 | 产品 | 描述 | 平台 |
 |------|------|------|
 | 📱 **小红书笔记** | AI 领域深度内容、热点解读、知识科普 | [小红书](https://www.xiaohongshu.com/user/profile/69e1cff1000000003402f88c) |
-| 📊 **调研报告** | 一人公司深度调研、AI 公司案例研究 | 内部存档 |
 | 🛠️ **开源工具** | 内容生产工具链、浏览器自动化引擎 | [GitHub](https://github.com/lobster-journey) |
 
 ### 知识服务
