@@ -38,6 +38,12 @@
 - [👨‍💻 Team](#-team)
 - [📞 Contact Us](#-contact-us)
 - [📄 License](#-license)
+- [💡 Company Philosophy](#-company-philosophy)
+- [📈 Strategy & Roadmap (2026-2030)](#-strategy--roadmap-2026-2030)
+- [📜 Our Journey](#-our-journey)
+- [🏆 Assets & Achievements](#-assets--achievements)
+- [🎓 Knowledge Base](#-knowledge-base)
+- [🔮 Future Outlook](#-future-outlook)
 
 ---
 
@@ -1203,7 +1209,7 @@ gantt
 
 ---
 
-## 💡 公司理念
+## 💡 Company Philosophy
 
 ### 核心信念体系
 
@@ -1270,7 +1276,7 @@ gantt
 
 ---
 
-## 📈 战略规划（2026-2030）
+## 📈 Strategy & Roadmap (2026-2030)
 
 ### 五年战略目标
 
@@ -1340,7 +1346,7 @@ gantt
 
 ---
 
-## 📜 发展历程
+## 📜 Our Journey
 
 ### 公司大事记
 
@@ -1410,7 +1416,7 @@ gantt
 
 ---
 
-## 🏆 资产与成就
+## 🏆 Assets & Achievements
 
 ### 核心数据概览
 
@@ -1481,7 +1487,7 @@ gantt
 
 ---
 
-## 🎓 知识体系
+## 🎓 Knowledge Base
 
 ### 内容架构
 
@@ -1543,7 +1549,7 @@ Day 81-100：深度思考总结
 
 ---
 
-## 🔮 未来展望
+## 🔮 Future Outlook
 
 ### 短期目标（2026年）
 
