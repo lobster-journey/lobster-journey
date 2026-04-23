@@ -173,7 +173,7 @@ graph LR
 | 产品 | 描述 | 平台 |
 |------|------|------|
 | 📱 小红书笔记 | AI 领域深度内容、热点解读、知识科普 | [小红书](https://www.xiaohongshu.com/user/profile/69e1cff1000000003402f88c) |
-| 📊 调研报告 | 一人公司深度调研、AI 公司案例研究 | GitHub 私有仓库 |
+| 📊 调研报告 | 一人公司深度调研、AI 公司案例研究 | 内部存档 |
 | 🛠️ 开源工具 | 内容生产工具链、浏览器自动化引擎 | [GitHub](https://github.com/lobster-journey) |
 
 ### 技术服务
@@ -431,7 +431,6 @@ graph TB
 | [xiaohongshu-agent](https://github.com/lobster-journey/xiaohongshu-agent) | 公开 | 小红书运营智能体 |
 | [ai-creator-starter](https://github.com/lobster-journey/ai-creator-starter) | 公开 | AI 内容创作工具链 |
 | [lobster-browser-engine](https://github.com/lobster-journey/lobster-browser-engine) | 公开 | 浏览器自动化引擎 |
-| lobster-journey-private | 私有 | 内部运营与敏感信息 |
 
 ---
 
